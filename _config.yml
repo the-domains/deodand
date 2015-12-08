@@ -1,6 +1,6 @@
 name: Deodand
 favicon: null
-layout_spectrum: 0.39861603593453765
+layout_spectrum: 0.49777
 typography_spectrum: 0.7484354602638632
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.14228701288811862
-  lightness: 0.9622913603670895
-  saturation: 0.7871084164362401
-  rhythmicContrast: 0.8390808291733265
+  brandStrength: 0.0625
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
